@@ -6,10 +6,11 @@ body{
 }
 #bglime{
     background-color: lime;
-    
+    font-size: 30px;
 }
 #word{
     color: red;
+
 }
 p{
     color: white;
@@ -20,9 +21,12 @@ p{
 }
 #black{
     color: black;
+    font-size: 30px;
 }
-
-li > a{
+ul{
+    color: white;
+}
+li >a{
     background-color: yellow;
     color: rgb(83, 229, 83);
 }
